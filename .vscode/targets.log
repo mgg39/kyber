@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sat Jul 16 10:59:55 2022
+# Make data base, printed on Sat Jul 16 22:02:38 2022
 
 # Variables
 
@@ -55,7 +55,7 @@ VSCODE_CODE_CACHE_PATH = /home/maria/.config/Code/CachedData/b06ae3b2d2dbfe28bca
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.8F9RP1
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.1L9GP1
 # default
 .LOADED := 
 # default
@@ -65,7 +65,7 @@ MAKEFLAGS = pqrR
 # makefile
 CURDIR := /home/maria/kyber
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -87,7 +87,7 @@ SNAP_REEXEC =
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 7688
+VSCODE_PID = 5326
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
@@ -95,7 +95,7 @@ XDG_SESSION_TYPE = wayland
 # environment
 BAMF_DESKTOP_FILE_HINT = /var/lib/snapd/desktop/applications/code_code.desktop
 # environment
-SESSION_MANAGER = local/maria-pc:@/tmp/.ICE-unix/1754,unix/maria-pc:/tmp/.ICE-unix/1754
+SESSION_MANAGER = local/maria-pc:@/tmp/.ICE-unix/1769,unix/maria-pc:/tmp/.ICE-unix/1769
 # automatic
 *F = $(notdir $*)
 # environment
@@ -141,7 +141,7 @@ SNAP_USER_COMMON = /home/maria/snap/code/common
 # environment
 SNAP = /snap/code/101
 # environment
-INVOCATION_ID = 6e6dafb5660c466d949274fc40045c5a
+INVOCATION_ID = 6fb201a6aaeb48d482eab97ff49df147
 # environment
 SNAP_REVISION = 101
 # environment
@@ -175,7 +175,7 @@ SNAP_ARCH = amd64
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 1772
+SYSTEMD_EXEC_PID = 1791
 # environment
 DISPLAY = :0
 # environment
@@ -191,15 +191,15 @@ SNAP_DATA = /var/snap/code/101
 # environment
 SNAP_CONTEXT = WQjqF3XXJAjb3b65yPgBazLh-pBRfWufVW6SOFDIX4JzHveWvwGG
 # environment
-MANAGERPID = 1612
+MANAGERPID = 1628
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 7639
+GIO_LAUNCHED_DESKTOP_FILE_PID = 5276
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
 GDK_PIXBUF_MODULE_FILE = /home/maria/snap/code/common/.cache/gdk-pixbuf-loaders.cache
 # environment
-JOURNAL_STREAM = 8:30674
+JOURNAL_STREAM = 8:32552
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -209,7 +209,6 @@ PLATFORMIO_IDE = 2.5.0
 # environment
 HOME = /home/maria
 # environment
- 
 QT_IM_MODULE = ibus
 # environment
 ELECTRON_RUN_AS_NODE = 1
@@ -252,9 +251,9 @@ SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd
 
 # Directories
 
-# . (device 2051, inode 10490235): 23 files, no impossibilities.
+# . (device 2051, inode 10490235): 24 files, no impossibilities.
 
-# 23 files, no impossibilities in 1 directories.
+# 24 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -304,12 +303,13 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 31 / storage = 363 B / avg = 11 B
-# current buf: size = 8162 B / used = 363 B / count = 31 / avg = 11 B
+# strcache buffers: 1 (0) / strings = 32 / storage = 369 B / avg = 11 B
+# current buf: size = 8162 B / used = 369 B / count = 32 / avg = 11 B
 
-# strcache performance: lookups = 34 / hit rate = 8%
+# strcache performance: lookups = 35 / hit rate = 8%
 # hash-table stats:
-# Load=31/8192=0%, Rehash=0, Collisions=0/34=0%
-# Finished Make data base on Sat Jul 16 10:59:55 2022
+ 
+# Load=32/8192=0%, Rehash=0, Collisions=0/35=0%
+# Finished Make data base on Sat Jul 16 22:02:38 2022
 
  
