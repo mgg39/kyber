@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkyber768_90s_ref.a CMakeFiles/kyber768_90s_ref.dir/kex.c.o CMakeFiles/kyber768_90s_ref.dir/kem.c.o CMakeFiles/kyber768_90s_ref.dir/indcpa.c.o CMakeFiles/kyber768_90s_ref.dir/polyvec.c.o CMakeFiles/kyber768_90s_ref.dir/poly.c.o CMakeFiles/kyber768_90s_ref.dir/ntt.c.o CMakeFiles/kyber768_90s_ref.dir/cbd.c.o CMakeFiles/kyber768_90s_ref.dir/reduce.c.o CMakeFiles/kyber768_90s_ref.dir/verify.c.o CMakeFiles/kyber768_90s_ref.dir/symmetric-aes.c.o
+/usr/bin/ranlib libkyber768_90s_ref.a

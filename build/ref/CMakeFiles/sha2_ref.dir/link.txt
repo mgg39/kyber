@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsha2_ref.a CMakeFiles/sha2_ref.dir/sha256.c.o CMakeFiles/sha2_ref.dir/sha512.c.o
+/usr/bin/ranlib libsha2_ref.a

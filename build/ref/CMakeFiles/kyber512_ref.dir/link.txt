@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkyber512_ref.a CMakeFiles/kyber512_ref.dir/kex.c.o CMakeFiles/kyber512_ref.dir/kem.c.o CMakeFiles/kyber512_ref.dir/indcpa.c.o CMakeFiles/kyber512_ref.dir/polyvec.c.o CMakeFiles/kyber512_ref.dir/poly.c.o CMakeFiles/kyber512_ref.dir/ntt.c.o CMakeFiles/kyber512_ref.dir/cbd.c.o CMakeFiles/kyber512_ref.dir/reduce.c.o CMakeFiles/kyber512_ref.dir/verify.c.o CMakeFiles/kyber512_ref.dir/symmetric-shake.c.o
+/usr/bin/ranlib libkyber512_ref.a

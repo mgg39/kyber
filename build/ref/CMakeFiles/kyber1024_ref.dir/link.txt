@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkyber1024_ref.a CMakeFiles/kyber1024_ref.dir/kex.c.o CMakeFiles/kyber1024_ref.dir/kem.c.o CMakeFiles/kyber1024_ref.dir/indcpa.c.o CMakeFiles/kyber1024_ref.dir/polyvec.c.o CMakeFiles/kyber1024_ref.dir/poly.c.o CMakeFiles/kyber1024_ref.dir/ntt.c.o CMakeFiles/kyber1024_ref.dir/cbd.c.o CMakeFiles/kyber1024_ref.dir/reduce.c.o CMakeFiles/kyber1024_ref.dir/verify.c.o CMakeFiles/kyber1024_ref.dir/symmetric-shake.c.o
+/usr/bin/ranlib libkyber1024_ref.a

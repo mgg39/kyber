@@ -1,0 +1,336 @@
+Start testing: Jul 16 11:12 BST
+----------------------------------------------------------
+1/19 Testing: kyber512_ref
+1/19 Test: kyber512_ref
+Command: "/home/maria/kyber/build/ref/test_kyber512_ref"
+Directory: /home/maria/kyber/build/ref
+"kyber512_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+CRYPTO_SECRETKEYBYTES:  1632
+CRYPTO_PUBLICKEYBYTES:  800
+CRYPTO_CIPHERTEXTBYTES: 768
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"kyber512_ref" end time: Jul 16 11:12 BST
+"kyber512_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/19 Testing: kex512_ref
+2/19 Test: kex512_ref
+Command: "/home/maria/kyber/build/ref/test_kex512_ref"
+Directory: /home/maria/kyber/build/ref
+"kex512_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+KEX_UAKE_SENDABYTES: 1568
+KEX_UAKE_SENDBBYTES: 768
+KEX_AKE_SENDABYTES: 1568
+KEX_AKE_SENDBBYTES: 1536
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"kex512_ref" end time: Jul 16 11:12 BST
+"kex512_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/19 Testing: kyber512-90s_ref
+3/19 Test: kyber512-90s_ref
+Command: "/home/maria/kyber/build/ref/test_kyber512-90s_ref"
+Directory: /home/maria/kyber/build/ref
+"kyber512-90s_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+CRYPTO_SECRETKEYBYTES:  1632
+CRYPTO_PUBLICKEYBYTES:  800
+CRYPTO_CIPHERTEXTBYTES: 768
+<end of output>
+Test time =   0.59 sec
+----------------------------------------------------------
+Test Passed.
+"kyber512-90s_ref" end time: Jul 16 11:12 BST
+"kyber512-90s_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/19 Testing: kex512-90_ref
+4/19 Test: kex512-90_ref
+Command: "/home/maria/kyber/build/ref/test_kex512-90s_ref"
+Directory: /home/maria/kyber/build/ref
+"kex512-90_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+KEX_UAKE_SENDABYTES: 1568
+KEX_UAKE_SENDBBYTES: 768
+KEX_AKE_SENDABYTES: 1568
+KEX_AKE_SENDBBYTES: 1536
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"kex512-90_ref" end time: Jul 16 11:12 BST
+"kex512-90_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/19 Testing: kyber768_ref
+5/19 Test: kyber768_ref
+Command: "/home/maria/kyber/build/ref/test_kyber768_ref"
+Directory: /home/maria/kyber/build/ref
+"kyber768_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+CRYPTO_SECRETKEYBYTES:  2400
+CRYPTO_PUBLICKEYBYTES:  1184
+CRYPTO_CIPHERTEXTBYTES: 1088
+<end of output>
+Test time =   0.67 sec
+----------------------------------------------------------
+Test Passed.
+"kyber768_ref" end time: Jul 16 11:12 BST
+"kyber768_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/19 Testing: kex768_ref
+6/19 Test: kex768_ref
+Command: "/home/maria/kyber/build/ref/test_kex768_ref"
+Directory: /home/maria/kyber/build/ref
+"kex768_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+KEX_UAKE_SENDABYTES: 2272
+KEX_UAKE_SENDBBYTES: 1088
+KEX_AKE_SENDABYTES: 2272
+KEX_AKE_SENDBBYTES: 2176
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"kex768_ref" end time: Jul 16 11:12 BST
+"kex768_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/19 Testing: kyber768-90s_ref
+7/19 Test: kyber768-90s_ref
+Command: "/home/maria/kyber/build/ref/test_kyber768-90s_ref"
+Directory: /home/maria/kyber/build/ref
+"kyber768-90s_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+CRYPTO_SECRETKEYBYTES:  2400
+CRYPTO_PUBLICKEYBYTES:  1184
+CRYPTO_CIPHERTEXTBYTES: 1088
+<end of output>
+Test time =   0.88 sec
+----------------------------------------------------------
+Test Passed.
+"kyber768-90s_ref" end time: Jul 16 11:12 BST
+"kyber768-90s_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/19 Testing: kex768-90_ref
+8/19 Test: kex768-90_ref
+Command: "/home/maria/kyber/build/ref/test_kex768-90s_ref"
+Directory: /home/maria/kyber/build/ref
+"kex768-90_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+KEX_UAKE_SENDABYTES: 2272
+KEX_UAKE_SENDBBYTES: 1088
+KEX_AKE_SENDABYTES: 2272
+KEX_AKE_SENDBBYTES: 2176
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"kex768-90_ref" end time: Jul 16 11:12 BST
+"kex768-90_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/19 Testing: kyber1024_ref
+9/19 Test: kyber1024_ref
+Command: "/home/maria/kyber/build/ref/test_kyber1024_ref"
+Directory: /home/maria/kyber/build/ref
+"kyber1024_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+CRYPTO_SECRETKEYBYTES:  3168
+CRYPTO_PUBLICKEYBYTES:  1568
+CRYPTO_CIPHERTEXTBYTES: 1568
+<end of output>
+Test time =   1.49 sec
+----------------------------------------------------------
+Test Passed.
+"kyber1024_ref" end time: Jul 16 11:12 BST
+"kyber1024_ref" time elapsed: 00:00:01
+----------------------------------------------------------
+
+10/19 Testing: kex1024_ref
+10/19 Test: kex1024_ref
+Command: "/home/maria/kyber/build/ref/test_kex1024_ref"
+Directory: /home/maria/kyber/build/ref
+"kex1024_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+KEX_UAKE_SENDABYTES: 3136
+KEX_UAKE_SENDBBYTES: 1568
+KEX_AKE_SENDABYTES: 3136
+KEX_AKE_SENDBBYTES: 3136
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"kex1024_ref" end time: Jul 16 11:12 BST
+"kex1024_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/19 Testing: kyber1024-90s_ref
+11/19 Test: kyber1024-90s_ref
+Command: "/home/maria/kyber/build/ref/test_kyber1024-90s_ref"
+Directory: /home/maria/kyber/build/ref
+"kyber1024-90s_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+CRYPTO_SECRETKEYBYTES:  3168
+CRYPTO_PUBLICKEYBYTES:  1568
+CRYPTO_CIPHERTEXTBYTES: 1568
+<end of output>
+Test time =   1.64 sec
+----------------------------------------------------------
+Test Passed.
+"kyber1024-90s_ref" end time: Jul 16 11:12 BST
+"kyber1024-90s_ref" time elapsed: 00:00:01
+----------------------------------------------------------
+
+12/19 Testing: kex1024-90_ref
+12/19 Test: kex1024-90_ref
+Command: "/home/maria/kyber/build/ref/test_kex1024-90s_ref"
+Directory: /home/maria/kyber/build/ref
+"kex1024-90_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+KEX_UAKE_SENDABYTES: 3136
+KEX_UAKE_SENDBBYTES: 1568
+KEX_AKE_SENDABYTES: 3136
+KEX_AKE_SENDBBYTES: 3136
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"kex1024-90_ref" end time: Jul 16 11:12 BST
+"kex1024-90_ref" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/19 Testing: vectors512_ref
+13/19 Test: vectors512_ref
+Command: "/usr/bin/sh" "-c" ""/home/maria/kyber/build/ref/test_vectors512_ref" > tvecs512"
+Directory: /home/maria/kyber/build/ref
+"vectors512_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   3.05 sec
+----------------------------------------------------------
+Test Passed.
+"vectors512_ref" end time: Jul 16 11:12 BST
+"vectors512_ref" time elapsed: 00:00:03
+----------------------------------------------------------
+
+14/19 Testing: vectors512-90s_ref
+14/19 Test: vectors512-90s_ref
+Command: "/usr/bin/sh" "-c" ""/home/maria/kyber/build/ref/test_vectors512-90s_ref" > tvecs512-90s"
+Directory: /home/maria/kyber/build/ref
+"vectors512-90s_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   4.40 sec
+----------------------------------------------------------
+Test Passed.
+"vectors512-90s_ref" end time: Jul 16 11:12 BST
+"vectors512-90s_ref" time elapsed: 00:00:04
+----------------------------------------------------------
+
+15/19 Testing: vectors768_ref
+15/19 Test: vectors768_ref
+Command: "/usr/bin/sh" "-c" ""/home/maria/kyber/build/ref/test_vectors768_ref" > tvecs768"
+Directory: /home/maria/kyber/build/ref
+"vectors768_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   4.28 sec
+----------------------------------------------------------
+Test Passed.
+"vectors768_ref" end time: Jul 16 11:12 BST
+"vectors768_ref" time elapsed: 00:00:04
+----------------------------------------------------------
+
+16/19 Testing: vectors768-90s_ref
+16/19 Test: vectors768-90s_ref
+Command: "/usr/bin/sh" "-c" ""/home/maria/kyber/build/ref/test_vectors768-90s_ref" > tvecs768-90s"
+Directory: /home/maria/kyber/build/ref
+"vectors768-90s_ref" start time: Jul 16 11:12 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   5.36 sec
+----------------------------------------------------------
+Test Passed.
+"vectors768-90s_ref" end time: Jul 16 11:13 BST
+"vectors768-90s_ref" time elapsed: 00:00:05
+----------------------------------------------------------
+
+17/19 Testing: vectors1024_ref
+17/19 Test: vectors1024_ref
+Command: "/usr/bin/sh" "-c" ""/home/maria/kyber/build/ref/test_vectors1024_ref" > tvecs1024"
+Directory: /home/maria/kyber/build/ref
+"vectors1024_ref" start time: Jul 16 11:13 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   5.69 sec
+----------------------------------------------------------
+Test Passed.
+"vectors1024_ref" end time: Jul 16 11:13 BST
+"vectors1024_ref" time elapsed: 00:00:05
+----------------------------------------------------------
+
+18/19 Testing: vectors1024-90s_ref
+18/19 Test: vectors1024-90s_ref
+Command: "/usr/bin/sh" "-c" ""/home/maria/kyber/build/ref/test_vectors1024-90s_ref" > tvecs1024-90s"
+Directory: /home/maria/kyber/build/ref
+"vectors1024-90s_ref" start time: Jul 16 11:13 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   7.21 sec
+----------------------------------------------------------
+Test Passed.
+"vectors1024-90s_ref" end time: Jul 16 11:13 BST
+"vectors1024-90s_ref" time elapsed: 00:00:07
+----------------------------------------------------------
+
+19/19 Testing: hashes
+19/19 Test: hashes
+Command: "/usr/bin/sha256sum" "-c" "../../SHA256SUMS"
+Directory: /home/maria/kyber/build/ref
+"hashes" start time: Jul 16 11:13 BST
+Output:
+----------------------------------------------------------
+tvecs512: OK
+tvecs512-90s: OK
+tvecs768: OK
+tvecs768-90s: OK
+tvecs1024: OK
+tvecs1024-90s: OK
+<end of output>
+Test time =   1.97 sec
+----------------------------------------------------------
+Test Passed.
+"hashes" end time: Jul 16 11:13 BST
+"hashes" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Jul 16 11:13 BST

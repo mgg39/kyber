@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_vectors1024_ref.dir/test_vectors.c.o -o test_vectors1024_ref  libkyber1024_ref.a libfips202_ref.a 

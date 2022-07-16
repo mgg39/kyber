@@ -1,0 +1,20 @@
+kyber512_ref 1 0.459322
+kex512_ref 1 0.00106394
+kyber512-90s_ref 1 0.591597
+kex512-90_ref 1 0.00362125
+kyber768_ref 1 0.667376
+kex768_ref 1 0.0014282
+kyber768-90s_ref 1 0.87681
+kex768-90_ref 1 0.00184229
+kyber1024_ref 1 1.48964
+kex1024_ref 1 0.00184115
+kyber1024-90s_ref 1 1.6408
+kex1024-90_ref 1 0.00266058
+vectors512_ref 1 3.04738
+vectors512-90s_ref 1 4.40301
+vectors768_ref 1 4.27668
+vectors768-90s_ref 1 5.35812
+vectors1024_ref 1 5.69136
+vectors1024-90s_ref 1 7.21076
+hashes 1 1.9722
+---
